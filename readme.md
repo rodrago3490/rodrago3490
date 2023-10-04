@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rodrago3490</h1>
-<h3 align="center">A minecrfat developer!</h3>
+<h3 align="center">A Minecraft developer!</h3>
 
 - 🔭 I’m currently working on [SummonCrfat](https://discord.gg/summoncraft)
 
