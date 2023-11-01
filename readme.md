@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rodrago3490</h1>
 <h3 align="center">A Minecraft developer!</h3>
 
-- 🔭 I’m currently working on [SummonCrfat](https://discord.gg/summoncraft)
+- 🔭 I’m currently working on [SummonCraft](https://discord.gg/summoncraft)
 
 - 🌱 I’m currently learning **Spigot, C++ and Forge**
 
