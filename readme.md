@@ -13,5 +13,5 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me on discord **rodrago3490#0**
+- 📫 How to reach me on discord **rodrago3490**
 
