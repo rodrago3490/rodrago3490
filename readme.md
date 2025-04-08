@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Lunar Client](https://github.com/LunarClient)
 
-- 🤝 I’m looking for help with update [Node-Public](https://github.com/rodrago3490/Node-Discord-Bot-Public-)
-
-- 👨‍💻 All of my projects are available at [https://rodrago.carrd.co/](https://rodrago.carrd.co/)
+- 🤝 I’m looking to improve [Node-Public](https://github.com/rodrago3490/Node-Discord-Bot-Public-)
 
 - 💬 Ask me about **Node.js**
 
